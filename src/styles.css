@@ -1,0 +1,47 @@
+.my-button {
+    background-color: white;
+    border: solid black;
+    border-width: 1px;
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-left: 70px;
+}
+
+.my-button:hover {
+    background-color: black;
+    color: white;
+
+}
+
+.avatar {
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 60px;
+    margin-bottom: 10px;
+}
+
+.div1 {
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    padding: 10px;
+}
+
+.div11 {
+    height: 80px;
+    width: 80px;
+    background-color: red;
+    border: 2px solid white;
+    margin: 18px 8px 4px 8px;
+    float: left;
+
+}
+
+.div12 {
+    height: 80px;
+    width: 80px;
+    background-color: blue;
+    border: 2px solid white;
+    margin: 18px 8px 4px 108px;
+}
